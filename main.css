@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	padding: 0;
+	
+	background: url(Cutie_April.png) no-repeat center center fixed; 
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+/*
+p {
+	font-size:10px;
+	line-height:8px;
+	text-align:justify;
+	color: white;
+	 background: url(1.png) no-repeat center center fixed; 
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	-webkit-background-size:cover;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: rgb(225, 225, 255, 0);
+}*/
+
+
